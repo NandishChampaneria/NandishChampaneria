@@ -1,6 +1,6 @@
 # Nandish Champaneria
 
-Second-year Computer Science student passionate about building real-world software solutions. Focused on full-stack web development, machine learning applications, and impactful freelance work.
+Computer Science student passionate about building real-world software solutions. Focused on full-stack web development, machine learning applications, and impactful freelance work.
 
 ---
 
@@ -46,7 +46,5 @@ Second-year Computer Science student passionate about building real-world softwa
 ---
 
 ## GitHub Stats
-
-![Nandish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandishchampaneria&show_icons=true&hide_title=true&hide_border=true&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandishchampaneria&theme=default&hide_border=true)
