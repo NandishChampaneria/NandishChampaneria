@@ -13,11 +13,9 @@
 
 - 🧠 Interested in: **Machine Learning, Full Stack Development, and Freelance Gigs**
 
-- 📝 Check out my latest project: [Hiss AI – Voice to Code Generator](#)
+- 📝 Check out my latest project: [Markora AI – Invisible Watermarking](#)
 
 - 📫 How to reach me: **nandishladdu7@gmail.com**
-
-- ⚡ Fun fact: *I turn coffee ☕ into clean, scalable code.*
 
 ---
 
