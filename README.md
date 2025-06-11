@@ -9,8 +9,8 @@ Second-year Computer Science student passionate about building real-world softwa
 - **Good Deeds App**  
   A platform to create and organize charitable events with transparency and community participation.
 
-- **Hiss AI**  
-  A voice-to-code editor using DeepSeek API and Monaco Editor to generate code from spoken commands.
+- **Markora AI**  
+  A lightweight steganography tool that uses LSB techniques to embed invisible watermarks into images and digital assets
 
 - **LLM-Powered Report Generator**  
   Automating threat intelligence report creation using honeypot logs and large language models.
@@ -23,7 +23,7 @@ Second-year Computer Science student passionate about building real-world softwa
 - Machine Learning, Natural Language Processing
 - AI Tooling & API Integration
 - Freelance Software Development
-- Cybersecurity Reporting Automation
+- Cybersecurity Automation
 
 ---
 
@@ -41,7 +41,7 @@ Second-year Computer Science student passionate about building real-world softwa
 
 - **Email**: nandishladdu7@gmail.com  
 - **LinkedIn**: [linkedin.com/in/nandishchampaneria](https://linkedin.com/in/nandishchampaneria)  
-- **GitHub**: [github.com/nandishchampaneria](https://github.com/nandishchampaneria)
+- **GitHub**: [github.com/nandishchampaneria](https://github.com/NandishChampaneria)
 
 ---
 
